@@ -7,9 +7,9 @@ public class Ikerprim {
 		int db = 0;
 
 		for (int i = 2; i < 100; i++) {
-			if (Primszam(i)) {
+			if (primszam(i)) {
 				for (int j = 2; j < 100; j++) {
-					if (Primszam(j) && (j - i) == 2 && j != i) {
+					if (primszam(j) && (j - i) == 2 && j != i) {
 						db++;
 					}
 				}
@@ -19,7 +19,7 @@ public class Ikerprim {
 		System.out.println("Megoldás: " + db + " db ilyen számpár van");
 	}
 
-	public static boolean Primszam(int szam) {
+	public static boolean primszam(int szam) {
 		if (szam <= 1) {
 			return false;
 		}
