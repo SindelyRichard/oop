@@ -1,0 +1,5 @@
+Homerseklet: 34.0 Mertekegyseg: CELSIUS
+Homerseklet: 26.850000000000023 Mertekegyseg: CELSIUS
+Homerseklet: 26.0 Mertekegyseg: CELSIUS
+Homerseklet: 28.0 Mertekegyseg: CELSIUS
+Homerseklet: 31.0 Mertekegyseg: CELSIUS
